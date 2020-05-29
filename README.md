@@ -18,6 +18,8 @@ We komen online en offline samen, promoten onze waarden, en delen onze kennis. D
 
 - Slack aanmeldpagina: https://github.com/codefornl/slack-invite (live: praatmee.codefor.nl)
 
+- Multi-slack, a hack to bridge slack environments: https://github.com/codeforeurope/multi-slack
+
 ## Bijdragen
 
 Heb je een goed idee voor een tool/dienst, maak dan een issue aan waarin je dat idee beschrijft. Heb je een tool die je hier wil opnemen, doe dan een pull request. Bespreek even met de community of het Code for NL bestuur wat je van plan bent, en hoe dat past in de bestaande structuren. Dat kan op https://praatmee.codefor.nl
