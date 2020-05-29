@@ -18,9 +18,7 @@ We komen online en offline samen, promoten onze waarden, en delen onze kennis. D
 
 - Slack aanmeldpagina: https://github.com/codefornl/slack-invite (live: praatmee.codefor.nl)
 
-- Multi-slack, a hack to bridge slack environments: https://github.com/codeforeurope/multi-slack
-
-- Matterbridge, bridging Slack, Mattermost, Gitter, etc: https://github.com/42wim/matterbridge (live: nog niet)
+- Multi-slack, a hack to bridge slack environments: https://github.com/codeforeurope/multi-slack => vervangen door Matterbridge, bridging Slack, Mattermost, Gitter, etc: https://github.com/42wim/matterbridge (live: nog niet)
 
 ## Bijdragen
 
