@@ -12,13 +12,13 @@ We komen online en offline samen, promoten onze waarden, en delen onze kennis. D
 
 - Overzicht van Use Cases van public tech: Clarity https://github.com/codefornl/clarity en CBase https://github.com/codefornl/cbase (live: cbase.codefor.nl -> collecties.codefor.nl)
 
+- Twitter script voor dagelijks Clarity item in de spotlight
+
 - Code for NL website: https://github.com/codefornl/codefornl.github.io (live: www.codefor.nl)
 
 - Tool voor het maken van een (vituele, un)conferentie programma: https://github.com/codefornl/permanentbeta-programma
 
 - Slack aanmeldpagina: https://github.com/codefornl/slack-invite (live: praatmee.codefor.nl)
-
-- Multi-slack, a hack to bridge slack environments: https://github.com/codeforeurope/multi-slack => vervangen door Matterbridge, bridging Slack, Mattermost, Gitter, etc: https://github.com/42wim/matterbridge (live: nog niet)
 
 ## Bijdragen
 
