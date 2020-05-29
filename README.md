@@ -18,9 +18,9 @@ We komen online en offline samen, promoten onze waarden, en delen onze kennis. D
 
 - Tool voor het maken van een (vituele, un)conferentie programma: https://github.com/codefornl/permanentbeta-programma
 
-- Slack aanmeldpagina: https://github.com/codefornl/slack-invite (live: praatmee.codefor.nl)
+- Slack aanmeldpagina: https://github.com/codefornl/slack-invite (live: https://praatmee.codefor.nl)
 
-- https://github.com/jgroenen/opentransformatie.nl verder ontwikkelen (live: opentransformatie.nl)
+- https://github.com/jgroenen/opentransformatie.nl verder ontwikkelen (live: https://www.opentransformatie.nl)
 
 ## Bijdragen
 
