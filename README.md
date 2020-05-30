@@ -10,17 +10,23 @@ We komen online en offline samen, promoten onze waarden, en delen onze kennis. D
 
 ## Community Tools Projecten
 
-- Overzicht van Use Cases van public tech: Clarity https://github.com/codefornl/clarity en CBase https://github.com/codefornl/cbase (live: cbase.codefor.nl -> collecties.codefor.nl)
+### IN GEBRUIK
 
-- Twitter script voor dagelijks Clarity item in de spotlight
+- https://praatmee.codefor.nl: slack invite formulier https://github.com/codefornl/slack-invite
 
-- Code for NL website: https://github.com/codefornl/codefornl.github.io (live: www.codefor.nl)
+- bot voor welkomstbericht (draait op de Code for NL rancher): https://github.com/codefornl/slack-greet
+
+- https://collecties.codefor.nl: overzicht van Use Cases van public tech: Clarity https://github.com/codefornl/clarity en CBase https://github.com/codefornl/cbase
+
+- twitter script voor dagelijks Clarity item in de spotlight (draait nog bij Johan)
+
+- https://www.codefor.nl: Code for NL website: https://github.com/codefornl/codefornl.github.io
+
+- https://www.opentransformatie.nl: overzicht van resources voor digitale transformatie: https://github.com/jgroenen/opentransformatie.nl
+
+### BESTAAND, NOG NIET IN GEBRUIK
 
 - Tool voor het maken van een (vituele, un)conferentie programma: https://github.com/codefornl/permanentbeta-programma
-
-- Slack aanmeldpagina: https://github.com/codefornl/slack-invite (live: https://praatmee.codefor.nl)
-
-- https://github.com/jgroenen/opentransformatie.nl verder ontwikkelen (live: https://www.opentransformatie.nl)
 
 ## Bijdragen
 
